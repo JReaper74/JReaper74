@@ -3,9 +3,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://www.google.com)
-- [Malware Analysis Home Lab](https://www.google.com)
-- [SIEM Home Lab](https://www.google.com)
+- [Active Directory Home Lab](https://github.com/JReaper74/ActiveDirectoryLab)
+- [Malware Analysis Home Lab](https://github.com/JReaper74/MalwareAnalysis)
+- [SIEM Home Lab]([https://www.google.com](https://github.com/JReaper74/SIEMSetup))
 
 <h2>📺 Certifications </h2>
 
