@@ -5,7 +5,7 @@
 
 - [Active Directory Home Lab](https://github.com/JReaper74/ActiveDirectoryLab)
 - [Malware Analysis Home Lab](https://github.com/JReaper74/MalwareAnalysis)
-- [SIEM Home Lab]([https://www.google.com](https://github.com/JReaper74/SIEMSetup))
+- [SIEM Home Lab](https://github.com/JReaper74/SIEMSetup)
 
 <h2>📺 Certifications </h2>
 
