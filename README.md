@@ -8,8 +8,9 @@
 - [SIEM Home Lab](https://github.com/JReaper74/SIEMSetup)
 
 <h2>👨‍💻 Packet Tracer Networking Projects:</h2>
-- [SOHO Network](https://github.com/JReaper74/url)
-- [Hotel System Network](https://github.com/JReaper74/url)
+
+- [SOHO Network](https://github.com/JReaper74)
+- [Hotel System Network](https://github.com/JReaper74)
 
 <h2>📺 Certifications </h2>
 
