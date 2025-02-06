@@ -9,8 +9,8 @@
 
 <h2>👨‍💻 Packet Tracer Networking Projects:</h2>
 
-- [SOHO Network](https://github.com/JReaper74)
-- [Hotel System Network](https://github.com/JReaper74)
+- [SOHO Network](https://github.com/JReaper74/SOHO-Network)
+- [Hotel System Network](https://github.com/JReaper74/Hotel-System-Network)
 
 <h2>📺 Certifications </h2>
 
