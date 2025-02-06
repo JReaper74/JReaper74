@@ -7,6 +7,8 @@
 - [Malware Analysis Home Lab](https://github.com/JReaper74/MalwareAnalysis)
 - [SIEM Home Lab](https://github.com/JReaper74/SIEMSetup)
 
+- <h2>👨‍💻 IT Projects:</h2>
+
 <h2>📺 Certifications </h2>
 
 - Certificate IV in Cyber Security (Chisholm institute)
