@@ -7,7 +7,9 @@
 - [Malware Analysis Home Lab](https://github.com/JReaper74/MalwareAnalysis)
 - [SIEM Home Lab](https://github.com/JReaper74/SIEMSetup)
 
-- <h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 Packet Tracer Networking Projects:</h2>
+- [SOHO Network](https://github.com/JReaper74/url)
+- [Hotel System Network](https://github.com/JReaper74/url)
 
 <h2>📺 Certifications </h2>
 
